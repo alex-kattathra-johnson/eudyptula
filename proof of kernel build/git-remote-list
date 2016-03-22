@@ -1,0 +1,7 @@
+alex@alex-desktop:~/Documents/linux$ git remote -v
+kernel	git://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git (fetch)
+kernel	git://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git (push)
+origin	git@github.com:alexlovescoding/linux.git (fetch)
+origin	git@github.com:alexlovescoding/linux.git (push)
+alex@alex-desktop:~/Documents/linux$ 
+
