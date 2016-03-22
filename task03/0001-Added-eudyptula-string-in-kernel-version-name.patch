@@ -1,0 +1,26 @@
+From 4d6db6e7796ccb95119e5b5ae577e1ad2c54e50b Mon Sep 17 00:00:00 2001
+From: Alex Johnson <mrjohnsonalex@gmail.com>
+Date: Tue, 22 Mar 2016 11:40:28 -0400
+Subject: [PATCH] Added -eudyptula string in kernel version name
+
+Signed-off-by: Alex Johnson <mrjohnsonalex@gmail.com>
+---
+ Makefile | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+diff --git a/Makefile b/Makefile
+index e055b96..113a74e 100644
+--- a/Makefile
++++ b/Makefile
+@@ -1,7 +1,7 @@
+ VERSION = 4
+ PATCHLEVEL = 5
+ SUBLEVEL = 0
+-EXTRAVERSION =
++EXTRAVERSION = -eudyptula
+ NAME = Blurry Fish Butt
+ 
+ # *DOCUMENTATION*
+-- 
+2.8.0.rc0.1.gd285ab0
+

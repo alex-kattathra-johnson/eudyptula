@@ -1,0 +1,10 @@
+# Before installing new kernel
+alex@alex-desktop:~$ uname -a
+Linux alex-desktop 4.5.0-11118-g968f3e3 #1 SMP Tue Mar 22 00:51:46 EDT 2016 x86_64 x86_64 x86_64 GNU/Linux
+alex@alex-desktop:~$ 
+
+# After installing new kernel
+alex@alex-desktop:~$ uname -a
+Linux alex-desktop 4.5.0-eudyptula-11118-g968f3e3-dirty #1 SMP Tue Mar 22 10:50:01 EDT 2016 x86_64 x86_64 x86_64 GNU/Linux
+alex@alex-desktop:~$ 
+
