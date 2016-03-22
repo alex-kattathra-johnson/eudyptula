@@ -1,0 +1,8 @@
+# uname -a before building the new kernel
+alex@alex-desktop:~$ uname -a
+Linux alex-desktop 4.2.0-34-generic #39-Ubuntu SMP Thu Mar 10 22:13:01 UTC 2016 x86_64 x86_64 x86_64 GNU/Linux
+
+# uname -a after building the new kernel
+alex@alex-desktop:~$ uname -a
+Linux alex-desktop 4.5.0-11118-g968f3e3 #1 SMP Tue Mar 22 00:51:46 EDT 2016 x86_64 x86_64 x86_64 GNU/Linux
+alex@alex-desktop:~$
